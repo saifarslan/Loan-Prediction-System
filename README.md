@@ -12,7 +12,7 @@ Loan Prediction System is a Model Trained Using Logistic Regression, that model 
 * Libraries Required:   
     * Numpy
     * Pandas
-    * Skitlearn
+    * Sklearn
     * Streamlit
 * Model Training and EDA_For_Loan_Prediction_Sytem are both files from Jupyter Notebook (Python 3)
 * Front-End with Streamlit [Loan_Prediction_System](https://github.com/saifarslan/Loan-Prediction-System/tree/master/Loan_Predication_System)
